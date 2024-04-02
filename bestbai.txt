@@ -388,16 +388,6 @@ CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
 凤凰资讯-ipv6,http://[2409:8087:7000:20::17]/wh7f454c46tw3848616474_-2066516487/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯-ipv6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-
-凤凰资讯,http://113.64.145.84:8081/hls/36/index.m3u8
-凤凰资讯,http://121.24.99.177:8090/hls/72/index.m3u8
-凤凰资讯,http://125.71.250.138:8899/udp/239.93.0.118:2191
-凤凰资讯,http://125.71.250.138:8899/udp/239.93.1.4:2191
-凤凰资讯,http://171.223.215.229:4000/udp/239.93.0.118:2191
-凤凰资讯,http://180.142.145.135:8181/tsfile/live/1000_1.m3u8?key=txiptv
-凤凰资讯,http://210.210.155.37/session/4a75fd40-9e0f-11ee-820a-aa6c9f7644a5/uq2663/h/h157/S4/mnf.m3u8
-凤凰资讯,http://220.187.80.178:8888/rtp/233.50.200.192:5140
-凤凰资讯,http://2404.66369981.xyz/123/hk.php?id=fh2tv
 凤凰资讯,http://39.134.18.196:80/wh7f454c46tw2280983051_-1501544638/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,http://66369981.xyz/123/hk.php?id=fh2tv
 凤凰资讯,http://dasdasd.x3322.net:8081/hls/36/index.m3u8
@@ -411,13 +401,7 @@ CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
 凤凰资讯,http://v4.yuge518.cn:4022/udp/239.76.253.134:9000
 凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
 凤凰资讯,http://www.biaozhun114.com/dl/dl666/gy.php?key=贵州长id&id=4ea97af53693ae02392251697dbb52fd
-壹新闻,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
-壹新闻,http://hua.xhuizb.com:11288/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=37&token=362347370d9bba54
-HOY77香港台[1920*1080],http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
-HOY77香港台[1920*1080],http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=10
-HOY77香港台[1920*1080],https://s2.pub/cctv-9
-HOY78台[1920*1080],http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
-HOY78台[1920*1080],http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=11
+
 北京卫视-ipv6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
 北京卫视-ipv6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 北京卫视-ipv6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -868,10 +852,7 @@ HOY78台[1920*1080],http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=11
 江苏卫视-ipv6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$HD
 江苏卫视-ipv6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视-ipv6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$极清
-江苏卫视,http://1.85.6.42:8888/newlive/live/hls/22/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=41
-江苏卫视,http://111.8.242.151:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://113.140.69.126:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://116.132.87.246:8888/newlive/live/hls/31/live.m3u8
+
 江苏卫视,http://117.141.149.101:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://117.40.212.162:8888/newlive/live/hls/22/live.m3u8
 江苏卫视,http://118.122.2.29:9999/hls/20/index.m3u8
@@ -1205,9 +1186,7 @@ HOY78台[1920*1080],http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=11
 浙江卫视-ipv6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视-ipv6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$极清
 
-浙江卫视,http://111.8.242.151:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://115.149.139.141:10001/tsfile/live/1024_1.m3u8
-浙江卫视,http://116.132.87.246:8888/newlive/live/hls/30/live.m3u8
+
 浙江卫视,http://116.9.204.242:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://117.141.149.101:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://119.1.169.212:808/hls/28/index.m3u8
