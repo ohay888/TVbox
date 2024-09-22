@@ -142,9 +142,10 @@ CCTV13,http://116.167.76.60:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&a
 广东卫视,http://39.134.63.11:6610/PLTV/88888888/224/3221226374/index.m3u8?i
 广东卫视,http://116.9.204.242:9901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0
 
+广东新闻,http://l2tp.yeedah.xyz:8000/udp/239.77.0.173:5146$域名
 广东新闻,http://tenfarr.com:4000/udp/239.77.0.173:5146$域名
 广东新闻,http://120.197.112.28:8800/hls/74/index.m3u8$深圳移动IP
-广东新闻,http://l2tp.yeedah.xyz:8000/udp/239.77.0.173:5146$域名
+
 广东新闻,http://msa.mxsa.cc:4000/udp/239.77.0.173:5146$域名
 广东新闻,http://113.74.172.147:4000/udp/239.77.0.173:5146
 广东新闻,http://125.89.163.44:8888/udp/239.77.0.4:5146
